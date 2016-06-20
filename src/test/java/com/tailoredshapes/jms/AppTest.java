@@ -37,7 +37,6 @@ public class AppTest {
     @After
     public void tearDown() throws Exception {
         brokerService.stop();
-
     }
 
 
